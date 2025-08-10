@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Compass</string>
+    <string name="heading">Heading: %1$.0f°</string>
+    <string name="calibrate">Start Calibration</string>
+    <string name="finish_calibration">Finish Calibration</string>
+    <string name="calibration_instruction">Move your device in a figure-8 pattern. Tap "Finish Calibration" when done.</string>
+    <string name="calibration_hold_steady">Hold device steady…</string>
+    <string name="calibration_unstable">Too much movement. Please try again.</string>
+    <string name="calibration_completed">Calibration completed</string>
+    <string name="north">N</string>
+    <string name="south">S</string>
+    <string name="east">E</string>
+    <string name="west">W</string>
+</resources>

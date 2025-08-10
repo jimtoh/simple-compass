@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="260dp"
+    android:height="260dp"
+    android:viewportWidth="260"
+    android:viewportHeight="260">
+    <!-- Outer circle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#808080"
+        android:strokeWidth="2"
+        android:pathData="M130,10 A120,120 0 1,1 129.99,10" />
+
+    <!-- Cardinal lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M130,10 L130,250" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#808080"
+        android:strokeWidth="1"
+        android:pathData="M10,130 L250,130" />
+
+    <!-- Inner circles -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#A0A0A0"
+        android:strokeWidth="1"
+        android:pathData="M130,30 A100,100 0 1,1 129.99,30" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#C0C0C0"
+        android:strokeWidth="1"
+        android:pathData="M130,50 A80,80 0 1,1 129.99,50" />
+</vector>
